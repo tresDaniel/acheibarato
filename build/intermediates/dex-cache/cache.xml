@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-42fc093c2107deb42dd091e8553b0678ca40efaf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-7f779db70fd1e07f0c41d05daf34fd2a40a57154.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-6cbc03e6cc8be19ad6550dd08291ea32632ed95e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-f85fe5cb6a52fabe98ca6bd34899c15254e169ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-dd23322012c185678b6978b69d2406881f5b492a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-dcbab53f6d6c537dc1905bd8d419d81d9770f254.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-4c4afca2eb8fead8c9ac70d4e756215aa3aa1d84.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-f957a1cda35044ae768404ec2a57420900e04afa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-121b3ae094d2816069f0057711d9a89c4c5e432c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-ab097800926bef71a1574f343692a5f009378ff4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-f93f090a5a916f39f6a01dd6278125cc6cbf22db.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-992e5b4d43781f15499a058a4708ece6772565be.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-fc3b28fa769a8e60f8d2d4f919eb725fe2236be4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-e0bd1d374a22b96bab52b014be19684b09d62ed8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-1dbf7e90ba7feda88add14ae7918c0f6c6ffdf2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-98a0fc56877ee202784d5557c64df49c040dee7d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-585f5f0eba5b14f243db7965dacdb8aebd3c0a2a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-0bdc5e6f43f68d207ee25441fbf764d3303fdc5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-55b94d053759b377496cfcb716caaac6d822b465.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-94ae84b33f3ce3850ce23d3fd029fa28a4de1a6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-086ae9c8f13b1a01375b73bcc822691a228fef6a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-c0a90e610950e053c4c2c1a7f17bec9b7d2a01b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-5a7f18e2881fb9567ab079c8d97698dbbfdcefe4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-e4fa5b4b0ad94f0d492997be21625ef423eb6657.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-009c05b2e576166cf38a131756e9d6def002caac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-757b821e06bb4520c152aa15a3573b89936d87c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-4528aa27550d5646a5ccb141eb551d84d8b3ee4c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-22e63ac743f53a47dd179929fc7a58189f61e864.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-c4c03207b7969a667964dad79300adf06b9c0703.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-ceb06b04e82c3886647e8be5e36bb38ef018bc63.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-b468341cad0cb725fec9a17c703c20f8a7926cc8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-567ee772ccd4248367f8a74760c76d820cc0a007.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-e7f1ae568889b6424dff486ac85af6bf3236ee18.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-43371f3a7fdabb64b1f4e1a5d068cccd30c8d25d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-917032c68b38fcb12fadb8ac8850c96aeb0d3c9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-c8b648742b155ef3d14c829e55a954293b8450cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-f8141b3917921c327a2db7b41d980549115d1273.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-cae14a3c69ef7a454436e3aaebebadc8005d60ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-e5dbe04a3de8375d620c1b2d328061cad8734b31.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-d5d0a28da64116e42572fbb08e26fdde59198025.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-d3dde2f737850286434cd539f628344f1e15166f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-767c7e80d6eee01aba03c41f2810ed02b902ce96.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-5949ae806c53efc1b5e068b9a0160eccbaba8f30.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-814b13dda00287755c0dae865f2e5756dfb9661b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-e9817d27ebd6600c1ff0cce79add51488f723dc4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-9b0386d6a36bea26c891881faead0b0d2854a944.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-8f6f1f8e9e1a3ef3c43d0c032bc791b8933507f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-45f48f8dbc4c9b7d451907a869faad70af3a31b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-d87839d2cbb2091adac9e9c1d84a67976d9e6ef6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-b94b15cf9395c8b18006c7c4b09d1cb3d942fe70.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-447af4de8ba58a4f69885ed90590035de486c089.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-c8756e9e966172755f5778f594bbcedaeb62c991.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-126c2275eb586c0bc09845f2dc67b1ebcf565ca3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-f29ae36d81c162165d1da84169217ab6b3496877.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\Daniel\Desktop\PlacePicker\Application\build\intermediates\pre-dexed\debug\classes-4ee88913b62f0bece95fef8cca1092ea298a707b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\classes-82d88c51a54aca0c2d06167965101f798f741e89.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\Daniel\AndroidStudioProjects\acheibarato\Application\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-a14cb0a1b802d2f56360ee95c15b6bd3f54f00ed.jar" />
+    </item>
+
+</items>
