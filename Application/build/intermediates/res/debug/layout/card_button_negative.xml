@@ -19,4 +19,4 @@
     style="@style/CardActionNegative"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:gravity="center_vertical" /><!-- From: file:/C:/Users/Daniel/AndroidStudioProjects/acheibarato/Application/src/main/res/layout/card_button_negative.xml -->
+    android:gravity="center_vertical" /><!-- From: file:/C:/Users/Daniel/Documents/acheibarato/Application/src/main/res/layout/card_button_negative.xml -->
