@@ -339,7 +339,7 @@
     <string name="decline">Decline</string>
     <!-- From: file:/C:/Users/Daniel/Documents/acheibarato/Application/src/main/res/values/placepicker_strings.xml -->
     <eat-comment/>
-    <string name="detail_text">Place id: %1$s\nAddress: %2$s\nPhone: %3$s\n\n%4$s</string>
+    <string name="detail_text">Place id: %1$s\nAddress: %2$s\nPhone: %3$s\nTypes: %4$s </string>
     <string name="empty"/>
     <!-- From: file:/C:/Users/Daniel/Documents/acheibarato/Application/src/main/res/values/base-strings.xml -->
     <eat-comment/>
@@ -372,7 +372,7 @@
     <string name="mr_user_route_category_name">Devices</string>
     <!-- From: file:/C:/Users/Daniel/Documents/acheibarato/Application/src/main/res/values/placepicker_strings.xml -->
     <eat-comment/>
-    <string name="pick_action">Pick a place</string>
+    <string name="pick_action">Escolha um supermercado</string>
     <string name="pick_text">Clicking below constructs an Intent to show the place picker dialog.
 \nIf a place was selected, its details are read from the returned data and shown in a separate card.
 </string>

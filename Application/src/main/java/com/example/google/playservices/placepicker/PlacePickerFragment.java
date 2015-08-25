@@ -24,18 +24,16 @@ import android.support.v4.app.Fragment;
 import android.util.Log;
 import android.widget.Toast;
 
+import com.example.google.playservices.placepicker.cardstream.Card;
+import com.example.google.playservices.placepicker.cardstream.CardStream;
+import com.example.google.playservices.placepicker.cardstream.CardStreamFragment;
+import com.example.google.playservices.placepicker.cardstream.OnCardClickListener;
 import com.google.android.gms.common.GooglePlayServicesNotAvailableException;
 import com.google.android.gms.common.GooglePlayServicesRepairableException;
 import com.google.android.gms.common.GooglePlayServicesUtil;
 import com.google.android.gms.location.places.Place;
 import com.google.android.gms.location.places.ui.PlacePicker;
 
-import com.example.google.playservices.placepicker.cardstream.Card;
-import com.example.google.playservices.placepicker.cardstream.CardStream;
-import com.example.google.playservices.placepicker.cardstream.CardStreamFragment;
-import com.example.google.playservices.placepicker.cardstream.OnCardClickListener;
-
-import java.util.Iterator;
 import java.util.List;
 
 /**
@@ -163,6 +161,7 @@ public class PlacePickerFragment extends Fragment implements OnCardClickListener
                 final CharSequence name = place.getName();
                 final CharSequence address = place.getAddress();
                 final CharSequence phone = place.getPhoneNumber();
+                final List<Integer> placeTypes = place.getPlaceTypes();
                 final String placeId = place.getId();
                 String attribution = PlacePicker.getAttributions(data);
                 if(attribution == null){
@@ -173,7 +172,7 @@ public class PlacePickerFragment extends Fragment implements OnCardClickListener
                 getCardStream().getCard(CARD_DETAIL)
                         .setTitle(name.toString())
                         .setDescription(getString(R.string.detail_text, placeId, address, phone,
-                                attribution));
+                                placeTypes, attribution));
 
                 // Print data to debug log
                 Log.d(TAG, "Place selected: " + placeId + " (" + name.toString() + ")");
