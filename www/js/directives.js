@@ -7,57 +7,62 @@ angular.module('starter.directives', [])
       onCreate: '&'
     },
     link: function ($scope, $element, $attr) {
-      var mapOptions;
-      var infowindow;
-
       function initialize() {
-        var pyrmont = {lat: -33.867, lng: 151.195};
-        mapOptions = new google.maps.Map(document.getElementById('map'), {
-          center: pyrmont,
+        var myLatlng = new google.maps.LatLng(43.07493,-89.381388);
+        
+        var mapOptions = {
+          center: myLatlng,
           zoom: 16,
           mapTypeId: google.maps.MapTypeId.ROADMAP
-        });
-
-        infowindow = new google.maps.InfoWindow();
-
-        var map = new google.maps.Map($element[0], mapOptions);
-
-        var service = new google.maps.places.PlacesService(map);
-        service.nearbySearch({
-          location: pyrmont,
-          radius: 500,
-          types: ['store']
-        }, callback);
+        };
+        var map = new google.maps.Map(document.getElementById("map"),
+            mapOptions);
         
-        $scope.onCreate({map: map});
+        //Marker + infowindow + angularjs compiled ng-click
+        var contentString = "<div><a ng-click='clickTest()'>Click me!</a></div>";
+        var compiled = $compile(contentString)($scope);
 
-        // Stop the side bar from dragging when mousedown/tapdown on the map
-        google.maps.event.addDomListener($element[0], 'mousedown', function (e) {
-          e.preventDefault();
-          return false;
+        var infowindow = new google.maps.InfoWindow({
+          content: compiled[0]
         });
-      }
 
-      function callback(results, status) {
-        if (status === google.maps.places.PlacesServiceStatus.OK) {
-          for (var i = 0; i < results.length; i++) {
-            createMarker(results[i]);
-          }
-        }
-      }
-
-      function createMarker(place) {
-        var placeLoc = place.geometry.location;
         var marker = new google.maps.Marker({
+          position: myLatlng,
           map: map,
-          position: place.geometry.location
+          title: 'Uluru (Ayers Rock)'
         });
 
         google.maps.event.addListener(marker, 'click', function() {
-          infowindow.setContent(place.name);
-          infowindow.open(map, this);
+          infowindow.open(map,marker);
         });
+
+        $scope.map = map;
       }
+
+      google.maps.event.addDomListener(window, 'load', initialize);
+      
+      $scope.centerOnMe = function() {
+        if(!$scope.map) {
+          return;
+        }
+
+        $scope.loading = $ionicLoading.show({
+          content: 'Getting current location...',
+          showBackdrop: false
+        });
+
+        navigator.geolocation.getCurrentPosition(function(pos) {
+          $scope.map.setCenter(new google.maps.LatLng(pos.coords.latitude, pos.coords.longitude));
+          $scope.loading.hide();
+        }, function(error) {
+          alert('Unable to get location: ' + error.message);
+        });
+      };
+      
+      $scope.clickTest = function() {
+        alert('Example of infowindow with ng-click')
+      };
+
 
       if (document.readyState === "complete") {
         initialize();
